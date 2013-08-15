@@ -16,7 +16,7 @@
       for (var i=2; i<args.length; i++) {
           s = s.replace(new RegExp("\\{" + (i-2) + "\\}", 'g'), args[i]);
       }
-      var el = $('<div><pre></pre></div>'); 
+      var el = $('<div><pre class="log-item"></pre></div>'); 
       el.find('pre').text(strprepad(++ilog,2, " ") + ': ' + s);
       $(targetel).append(el);
     };

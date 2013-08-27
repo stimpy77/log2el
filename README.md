@@ -22,4 +22,4 @@ Subsequent arguments are inserted into the string at the locations of formatting
 
 If a div with an id of "log" is used, which is the default container, and the optional log2el CSS is used, then the console will appear fix-positioned at the bottom of the window.
 
-The gutter is not selectable. This makes it easier to copy multiple lines of console logs without capturing the log numbers in the gutter.
+The gutter is not selectable when using the log2el CSS. This makes it easier to copy multiple lines of console logs without capturing the log numbers in the gutter.

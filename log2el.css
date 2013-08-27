@@ -1,0 +1,11 @@
+pre.log-item { margin: 0; }
+pre.log-item.alt { background-color: #fbfff0; }
+pre.log-item .gutter { 
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#log { position: fixed; border: outset 1px; bottom: 0px; left: 0px; width: calc(100% - 2px); }

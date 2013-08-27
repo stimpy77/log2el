@@ -1,3 +1,4 @@
+// source: https://github.com/stimpy77/log2el
 (function() {
     var ilog = 0;
     var global = window;

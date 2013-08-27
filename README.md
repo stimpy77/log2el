@@ -7,7 +7,7 @@ Logs text to an element for console-ish viewing. Includes a log/line gutter, and
 
     log2el([domElement,] string[, format args]);
     
-The first argument is the element in which to insert a log entry. It is optional; if not provided, an element with an ID of "log" will be located, and if that is not found then document.body will be used. The log entry is appended to the resulting container element.
+The first argument is the element in which to append a log entry. It is optional; if not provided, an element with an ID of "log" will be located, and if that is not found then document.body will be used. The log entry is appended to the resulting container element.
 
 The second argument is the text to insert into the log entry. This can be the first or sole argument if defaulting the container.
 

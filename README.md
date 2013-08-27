@@ -5,8 +5,8 @@ Logs text to an element for console-ish viewing. Includes a log/line gutter, and
 
 Requires jQuery.
 
-Live demonstrations: 
-- http://jsfiddle.net/rBnu7/20/ (observe the very bottom of the output panel)
+Live demonstration: 
+- http://jsfiddle.net/rBnu7/21/ (observe the very bottom of the output panel)
 
 ## Syntax
 

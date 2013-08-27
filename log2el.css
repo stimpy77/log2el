@@ -8,4 +8,17 @@ pre.log-item .gutter {
     -ms-user-select: none;
     user-select: none;
 }
-#log { position: fixed; border: outset 1px; bottom: 0px; left: 0px; width: calc(100% - 2px); }
+#log { 
+    position: fixed; 
+    border: outset 1px; 
+    bottom: 0px; 
+    left: 0px; 
+    width: calc(100% - 2px); 
+    max-height: 35%;
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    overflow-y: scroll;
+}

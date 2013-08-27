@@ -8,6 +8,12 @@ Requires jQuery.
 Live demonstration: 
 - http://jsfiddle.net/rBnu7/22/ (observe the very bottom of the output panel)
 
+### Resource
+
+http://boldoghome.azurewebsites.net/log2el.js
+
+    <script src="http://boldoghome.azurewebsites.net/log2el.js"></script>
+
 ## Syntax
 
     log2el([domElement,] string[, format args]);

@@ -6,13 +6,7 @@ Logs text to an element for console-ish viewing. Includes a log/line gutter, and
 Requires jQuery.
 
 Live demonstration: 
-- http://jsfiddle.net/rBnu7/22/ (observe the very bottom of the output panel)
-
-### Resource
-
-http://boldoghome.azurewebsites.net/log2el.js
-
-    <script src="http://boldoghome.azurewebsites.net/log2el.js"></script>
+- http://jsfiddle.net/rBnu7/23/ (observe the very bottom of the output panel)
 
 ## Syntax
 

@@ -3,6 +3,8 @@ log2el
 
 Logs text to an element for console-ish viewing. Includes a log/line gutter, and supports String.Format(s,args) string concatonation using "{0}", "{1}", etc. as parameter placeholders.
 
+Requires jQuery.
+
 ## Syntax
 
     log2el([domElement,] string[, format args]);

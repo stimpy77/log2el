@@ -6,7 +6,7 @@ Logs text to an element for console-ish viewing. Includes a log/line gutter, and
 Requires jQuery.
 
 Live demonstration: 
-- http://jsfiddle.net/rBnu7/21/ (observe the very bottom of the output panel)
+- http://jsfiddle.net/rBnu7/22/ (observe the very bottom of the output panel)
 
 ## Syntax
 

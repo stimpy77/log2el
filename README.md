@@ -20,4 +20,4 @@ Subsequent arguments are inserted into the string at the locations of formatting
 
 ## Other notes
 
-If a div named "log" is used, which is the default container, and the CSS provided is used, then the console will appear fix-positioned at the bottom of the window.
+If a div with an id of "log" is used, which is the default container, and the optiona log2el CSS is used, then the console will appear fix-positioned at the bottom of the window.

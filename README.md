@@ -5,6 +5,10 @@ Logs text to an element for console-ish viewing. Includes a log/line gutter, and
 
 Requires jQuery.
 
+Live demonstrations: 
+- http://jsfiddle.net/rBnu7/18/ 
+- http://embed.plnkr.co/sVUhsO/preview
+
 ## Syntax
 
     log2el([domElement,] string[, format args]);
